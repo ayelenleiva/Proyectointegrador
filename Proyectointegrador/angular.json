@@ -88,11 +88,17 @@
             ],
             "styles": [
               "src/styles.css"
+              "node_modules/bootstrap-dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "50ae3a43-ecdc-40a2-892f-a52f24189ef3"
   }
 }
